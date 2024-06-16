@@ -1,0 +1,4 @@
+﻿  WindowsProject5.cpp
+C:\Users\v1ssa\source\repos\WindowsProject5\WindowsProject5\WindowsProject5.cpp(514,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\v1ssa\source\repos\WindowsProject5\WindowsProject5\WindowsProject5.cpp(636,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  WindowsProject5.vcxproj -> C:\Users\v1ssa\source\repos\WindowsProject5\x64\Debug\WindowsProject5.exe
